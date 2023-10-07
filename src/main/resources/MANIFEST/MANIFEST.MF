@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: jes.learning.code.Main
+Start-Class: jes.learning.code.Main
