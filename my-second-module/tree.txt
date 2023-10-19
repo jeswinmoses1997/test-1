@@ -1,0 +1,20 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< jes.learning.code:my-second-module >-----------------
+[INFO] Building my-second-module 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.6.0:tree (default-cli) @ my-second-module ---
+[INFO] jes.learning.code:my-second-module:war:1.0-SNAPSHOT
+[INFO] +- jes.learning.code:my-first-module:jar:1.0-SNAPSHOT:compile
+[INFO] +- org.apache.commons:commons-lang3:jar:3.13.0:compile
+[INFO] +- org.apache.logging.log4j:log4j-core:jar:2.19.0:compile
+[INFO] |  \- org.apache.logging.log4j:log4j-api:jar:2.19.0:compile
+[INFO] \- org.apache.logging.log4j:log4j-core:test-jar:tests:2.19.0:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.567 s
+[INFO] Finished at: 2023-10-18T21:36:09+05:30
+[INFO] ------------------------------------------------------------------------
